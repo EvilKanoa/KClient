@@ -1,0 +1,21 @@
+Inside Minecraft.java:
+    /** KClient hooks **/
+    this.kclient = new KClient();
+    this.kclient.setup();
+
+Inside Minecraft.java:
+    /** KClient hooks **/
+    this.kclient.tick();
+
+Inside Minecraft.java:
+    /** KClient hooks **/
+    this.kclient.getModuleManager().render();
+
+Inside Minecraft.java:
+    /** KClient hooks **/
+    this.displayGuiScreen(new GuiChatHook());
+
+Inside Minecraft.java:
+    /** KClient hooks **/
+    this.displayGuiScreen(new GuiChatHook("/"));
+    

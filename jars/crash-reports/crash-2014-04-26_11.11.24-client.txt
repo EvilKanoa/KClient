@@ -1,0 +1,57 @@
+---- Minecraft Crash Report ----
+// Everything's going to plan. No, really, that was supposed to happen.
+
+Time: 26/04/14 11:11 AM
+Description: Initializing game
+
+java.lang.NullPointerException: Initializing game
+	at ca.kanoa.kclient.modules.Keybinds.getKey(Keybinds.java:101)
+	at ca.kanoa.kclient.keybinds.KeybindGuiManager.setup(KeybindGuiManager.java:63)
+	at ca.kanoa.kclient.modules.Keybinds.setup(Keybinds.java:52)
+	at ca.kanoa.kclient.managers.BasicModuleManager.setup(BasicModuleManager.java:73)
+	at ca.kanoa.kclient.KClient.setup(KClient.java:29)
+	at net.minecraft.client.Minecraft.startGame(Minecraft.java:626)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:906)
+	at net.minecraft.client.main.Main.main(Main.java:109)
+	at Start.main(Start.java:11)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at ca.kanoa.kclient.modules.Keybinds.getKey(Keybinds.java:101)
+	at ca.kanoa.kclient.keybinds.KeybindGuiManager.setup(KeybindGuiManager.java:63)
+	at ca.kanoa.kclient.modules.Keybinds.setup(Keybinds.java:52)
+	at ca.kanoa.kclient.managers.BasicModuleManager.setup(BasicModuleManager.java:73)
+	at ca.kanoa.kclient.KClient.setup(KClient.java:29)
+	at net.minecraft.client.Minecraft.startGame(Minecraft.java:626)
+
+-- Initialization --
+Details:
+Stacktrace:
+	at net.minecraft.client.Minecraft.run(Minecraft.java:906)
+	at net.minecraft.client.main.Main.main(Main.java:109)
+	at Start.main(Start.java:11)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.2
+	Operating System: Windows 8 (x86) version 6.2
+	Java Version: 1.7.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) Client VM (mixed mode), Oracle Corporation
+	Memory: 948645664 bytes (904 MB) / 1046937600 bytes (998 MB) up to 1046937600 bytes (998 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	Launched Version: mcp
+	LWJGL: 2.9.0
+	OpenGL: Intel(R) HD Graphics 4600 GL version 4.2.0 - Build 10.18.10.3304, Intel
+	Is Modded: Very likely; Jar signature invalidated
+	Type: Client (map_client.txt)
+	Resource Packs: []
+	Current Language: English (US)
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: ~~ERROR~~ NullPointerException: null
+	Anisotropic Filtering: Off (1)

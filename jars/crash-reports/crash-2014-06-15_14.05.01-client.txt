@@ -1,0 +1,40 @@
+---- Minecraft Crash Report ----
+// There are four lights!
+
+Time: 15/06/14 2:05 PM
+Description: Unexpected error
+
+java.lang.NullPointerException: Unexpected error
+	at ca.kanoa.kclient.bridge.v1_7_2.Bridge1_7_2.addPotionEffect(Bridge1_7_2.java:11)
+	at ca.kanoa.kclient.modules.Brightness.tick(Brightness.java:22)
+	at ca.kanoa.kclient.managers.BasicModuleManager.tick(BasicModuleManager.java:50)
+	at ca.kanoa.kclient.KClient.tick(KClient.java:76)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1013)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:926)
+	at net.minecraft.client.main.Main.main(Main.java:109)
+	at Start.main(Start.java:11)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.2
+	Operating System: Windows 8 (x86) version 6.2
+	Java Version: 1.7.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) Client VM (mixed mode), Oracle Corporation
+	Memory: 969616880 bytes (924 MB) / 1046937600 bytes (998 MB) up to 1046937600 bytes (998 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
+	AABB Pool Size: 9251 (518056 bytes; 0 MB) allocated, 2 (112 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	Launched Version: mcp
+	LWJGL: 2.9.0
+	OpenGL: Intel(R) HD Graphics 4600 GL version 4.2.0 - Build 10.18.10.3304, Intel
+	Is Modded: Very likely; Jar signature invalidated
+	Type: Client (map_client.txt)
+	Resource Packs: []
+	Current Language: English (US)
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: ~~ERROR~~ NullPointerException: null
+	Anisotropic Filtering: Off (1)

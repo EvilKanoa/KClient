@@ -1,0 +1,717 @@
+[
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1826204b0e05aef412b595321866f7d190e0498d",
+    "jarFileModificationDate": "2014-02-22T16:26:07.290-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_51\\jre\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jce",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "be4124ecceb37230419f0f31ea6e7d50babb4973",
+    "jarFileModificationDate": "2014-02-22T16:26:36.046-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\jce.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "localedata",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7acf42fb63998f98ca2451e42ca6c283b98a3aeb",
+    "jarFileModificationDate": "2014-02-22T16:26:41.846-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\localedata.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jsse",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ba04f20d9486f44bb2895885d8944ca7a4b91118",
+    "jarFileModificationDate": "2014-02-22T16:26:41.809-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\jsse.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a3d1a9689f1c8e36ab64fb669df92076771c42f2",
+    "jarFileModificationDate": "2014-02-22T16:26:07.384-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_51\\jre\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cce04ac768f85ab9ed0378a2aae27c8871d9e00a",
+    "jarFileModificationDate": "2014-02-22T16:26:25.494-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_51\\jre\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.paulscode.libraryjavasound",
+    "version": {
+      "major": 20101123,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5c5e304366f75f9eaa2e8cca546a1fb6109348b3",
+    "jarFileModificationDate": "2014-02-22T21:59:34.249-05:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\libraries\\com\\paulscode\\libraryjavasound\\20101123\\libraryjavasound-20101123.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "sunjce_provider",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1826204b0e05aef412b595321866f7d190e0498d",
+    "jarFileModificationDate": "2014-02-22T16:26:35.955-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.gson",
+    "version": {
+      "major": 2,
+      "minor": 2,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a60a5e993c98c864010053cb901b7eab25306568",
+    "jarFileModificationDate": "2014-02-22T21:59:34.604-05:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\libraries\\com\\google\\code\\gson\\gson\\2.2.4\\gson-2.2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.io",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b1b6ea3b7e4aa4f492509a4952029cd8e48019ad",
+    "jarFileModificationDate": "2014-02-22T22:00:12.506-05:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\libraries\\commons-io\\commons-io\\2.4\\commons-io-2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jaccess",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ec2e4e9fee7de31ac2426dc34ae8c76d6ab62e30",
+    "jarFileModificationDate": "2014-02-22T16:26:35.916-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\jaccess.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "minecraft_server.1.7.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3716cac82982e7c2eb09f83028b555e9ea606002",
+    "jarFileModificationDate": "2014-04-19T15:28:23.659-04:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\minecraft_server.1.7.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "lwjgl-platform-2.9.0-natives-windows",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3f11873dc8e84c854ec7c5a8fd2e869f8aaef764",
+    "jarFileModificationDate": "2014-04-19T10:37:49.924-04:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\libraries\\org\\lwjgl\\lwjgl\\lwjgl-platform\\2.9.0\\lwjgl-platform-2.9.0-natives-windows.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "sunec",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "95dc9053062d68cde4e8c38494cc63aefd7b0a42",
+    "jarFileModificationDate": "2014-02-22T16:26:35.951-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\sunec.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.paulscode.soundsystem",
+    "version": {
+      "major": 20120107,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "419c05fe9be71f792b2d76cfc9b67f1ed0fec7f6",
+    "jarFileModificationDate": "2014-02-22T21:59:38.228-05:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\libraries\\com\\paulscode\\soundsystem\\20120107\\soundsystem-20120107.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "rt",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "447ba9a039506fc15af66978d30359c28b427e9f",
+    "jarFileModificationDate": "2014-02-22T16:26:41.454-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\rt.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "35b1ff32138d818bd730f5df657163f3b1fc3d4d",
+    "jarFileModificationDate": "2014-02-22T16:26:07.113-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_51\\jre\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "lwjgl-2.9.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5654d06e61a1bba7ae1e7f5233e1106be64c91cd",
+    "jarFileModificationDate": "2014-04-19T10:37:50.436-04:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\libraries\\org\\lwjgl\\lwjgl\\lwjgl\\2.9.0\\lwjgl-2.9.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "access-bridge-32",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a60c339ebc91869355f261d7ff7d3c6b335aabb6",
+    "jarFileModificationDate": "2014-02-22T16:26:35.804-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\access-bridge-32.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.paulscode.codecjorbis",
+    "version": {
+      "major": 20101023,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c73b5636faf089d9f00e8732a829577de25237ee",
+    "jarFileModificationDate": "2014-02-22T21:59:38.768-05:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\libraries\\com\\paulscode\\codecjorbis\\20101023\\codecjorbis-20101023.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jfr",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0ac952099f5d1ba16ac9ca3b1284b2b959c2e082",
+    "jarFileModificationDate": "2014-02-22T16:26:36.054-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\jfr.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.lang3",
+    "version": {
+      "major": 3,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "905075e6c80f206bbe6cf1e809d2caa69f420c76",
+    "jarFileModificationDate": "2014-02-22T22:00:15.867-05:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\libraries\\org\\apache\\commons\\commons-lang3\\3.1\\commons-lang3-3.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.ibm.icu.core",
+    "version": {
+      "major": 51,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "63d216a9311cca6be337c1e458e587f99d382b84",
+    "jarFileModificationDate": "2014-02-22T21:59:36.533-05:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\libraries\\com\\ibm\\icu\\icu4j-core-mojang\\51.2\\icu4j-core-mojang-51.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.logging.log4j-core",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "beta9"
+    },
+    "jarFileFingerprint": "678861ba1b2e1fccb594bb0ca03114bb05da9695",
+    "jarFileModificationDate": "2014-02-22T21:59:42.896-05:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\libraries\\org\\apache\\logging\\log4j\\log4j-core\\2.0-beta9\\log4j-core-2.0-beta9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "net.java.jutils.jutils",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e12fe1fda814bd348c1579329c86943d2cd3c6a6",
+    "jarFileModificationDate": "2014-02-22T21:59:34.077-05:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\libraries\\net\\java\\jutils\\jutils\\1.0.0\\jutils-1.0.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5e51ce82a095b4a23291b1cd35e6f1488efc5776",
+    "jarFileModificationDate": "2014-02-22T16:26:07.389-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_51\\jre\\lib\\ext\\sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "sunmscapi",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a3d1a9689f1c8e36ab64fb669df92076771c42f2",
+    "jarFileModificationDate": "2014-02-22T16:26:35.999-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.paulscode.librarylwjglopenal",
+    "version": {
+      "major": 20100824,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "73e80d0794c39665aec3f62eee88ca91676674ef",
+    "jarFileModificationDate": "2014-02-22T21:59:37.513-05:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\libraries\\com\\paulscode\\librarylwjglopenal\\20100824\\librarylwjglopenal-20100824.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "resources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "555a764ca9b50ecb2ae715a94042da668c53e123",
+    "jarFileModificationDate": "2014-02-22T16:26:36.118-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\resources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "io.netty.netty-all",
+    "version": {
+      "major": 4,
+      "minor": 0,
+      "micro": 10,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "9e50bd52ffe257a0e2cd8d971688d6ce7d174325",
+    "jarFileModificationDate": "2014-02-22T21:59:43.267-05:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\libraries\\io\\netty\\netty-all\\4.0.10.Final\\netty-all-4.0.10.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.logging.log4j-api",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "beta9"
+    },
+    "jarFileFingerprint": "1dd66e68cccd907880229f9e2de1314bd13ff785",
+    "jarFileModificationDate": "2014-02-22T21:59:34.811-05:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\libraries\\org\\apache\\logging\\log4j\\log4j-api\\2.0-beta9\\log4j-api-2.0-beta9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "95dc9053062d68cde4e8c38494cc63aefd7b0a42",
+    "jarFileModificationDate": "2014-02-22T16:26:07.284-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_51\\jre\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "sunpkcs11",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5e51ce82a095b4a23291b1cd35e6f1488efc5776",
+    "jarFileModificationDate": "2014-02-22T16:26:36.001-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\sunpkcs11.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "trove4j-3.0.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "42ccaf4761f0dfdfa805c9e340d99a755907e2dd",
+    "jarFileModificationDate": "2014-02-22T21:59:56.655-05:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\libraries\\net\\sf\\trove4j\\trove4j\\3.0.3\\trove4j-3.0.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0ac952099f5d1ba16ac9ca3b1284b2b959c2e082",
+    "jarFileModificationDate": "2014-02-22T16:26:07.469-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_51\\jre\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jinput-2.0.5",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "39c7796b469a600f72380316f6b1f11db6c2c7c4",
+    "jarFileModificationDate": "2014-02-22T21:59:34.828-05:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\libraries\\net\\java\\jinput\\jinput\\2.0.5\\jinput-2.0.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jinput-platform-2.0.5-natives-windows",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "385ee093e01f587f30ee1c8a2ee7d408fd732e16",
+    "jarFileModificationDate": "2014-02-22T22:00:14.307-05:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\libraries\\net\\java\\jinput\\jinput-platform\\2.0.5\\jinput-platform-2.0.5-natives-windows.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "dnsns",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "35b1ff32138d818bd730f5df657163f3b1fc3d4d",
+    "jarFileModificationDate": "2014-02-22T16:26:35.823-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\dnsns.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.guava",
+    "version": {
+      "major": 15,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ed727a8d9f247e2050281cb083f1c77b09dcb5cd",
+    "jarFileModificationDate": "2014-02-22T21:59:55.127-05:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\libraries\\com\\google\\guava\\guava\\15.0\\guava-15.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "zipfs",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ca6baf9ad4c7f3fe2bdca3502cde1e43b6ea9a3a",
+    "jarFileModificationDate": "2014-02-22T16:26:36.003-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\zipfs.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ec2e4e9fee7de31ac2426dc34ae8c76d6ab62e30",
+    "jarFileModificationDate": "2014-02-22T16:26:07.222-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_51\\jre\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "net.sf.jopt-simple.jopt-simple",
+    "version": {
+      "major": 4,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6065cc95c661255349c1d0756657be17c29a4fd3",
+    "jarFileModificationDate": "2014-02-22T21:59:38.555-05:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\libraries\\net\\sf\\jopt-simple\\jopt-simple\\4.5\\jopt-simple-4.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "vecmath-1.3.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a0ae4f51da409fa0c20fa0ca59e6bbc9413ae71d",
+    "jarFileModificationDate": "2014-02-22T21:59:35.035-05:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\libraries\\java3d\\vecmath\\1.3.1\\vecmath-1.3.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "50f8ece8586ecafacf28b7c18ccb3270eb64623a",
+    "jarFileModificationDate": "2014-02-22T16:26:22.116-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_51\\jre\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d335570614de19afae466ab03f7881d12513801a",
+    "jarFileModificationDate": "2014-02-22T16:26:22.770-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_51\\jre\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "charsets",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b151e72980db486d2057e0e15fadd5133f574f3d",
+    "jarFileModificationDate": "2014-02-22T16:26:41.532-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\charsets.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "authlib-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4fb033c2d6eccced08752d8f33e8c3a0a45deb2d",
+    "jarFileModificationDate": "2014-04-19T10:37:38.848-04:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\libraries\\com\\mojang\\authlib\\1.3\\authlib-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "be4124ecceb37230419f0f31ea6e7d50babb4973",
+    "jarFileModificationDate": "2014-02-22T16:26:07.460-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_51\\jre\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3abef1b8b68a79786d8daa7cb5b83611b51fb1d6",
+    "jarFileModificationDate": "2014-02-22T16:26:25.390-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_51\\jre\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "1.7.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0c8689f904922af71c7144dcfb81bce976cadd49",
+    "jarFileModificationDate": "2014-04-19T15:35:20.372-04:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\versions\\1.7.2\\1.7.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.paulscode.codecwav",
+    "version": {
+      "major": 20101023,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "12f031cfe88fef5c1dd36c563c0a3a69bd7261da",
+    "jarFileModificationDate": "2014-02-22T21:59:34.064-05:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\libraries\\com\\paulscode\\codecwav\\20101023\\codecwav-20101023.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a60c339ebc91869355f261d7ff7d3c6b335aabb6",
+    "jarFileModificationDate": "2014-02-22T16:26:07.080-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_51\\jre\\lib\\ext\\access-bridge-32.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ca6baf9ad4c7f3fe2bdca3502cde1e43b6ea9a3a",
+    "jarFileModificationDate": "2014-02-22T16:26:07.394-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_51\\jre\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "555a764ca9b50ecb2ae715a94042da668c53e123",
+    "jarFileModificationDate": "2014-02-22T16:26:07.534-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jdk1.7.0_51\\jre\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "lwjgl_util-2.9.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a778846b64008fc7f48ead2377f034e547991699",
+    "jarFileModificationDate": "2014-04-19T10:37:37.254-04:00",
+    "location": "C:\\Users\\kanoa_000\\Documents\\MCP\\903\\jars\\libraries\\org\\lwjgl\\lwjgl\\lwjgl_util\\2.9.0\\lwjgl_util-2.9.0.jar",
+    "javaRuntime": false
+  }
+]

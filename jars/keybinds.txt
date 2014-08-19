@@ -1,0 +1,4 @@
+brightness: 33
+gui: 34
+debug: 35
+bind: 48

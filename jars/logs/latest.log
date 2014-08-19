@@ -1,0 +1,46 @@
+[15:55:29] [main/INFO]: Setting user: Player828
+[15:55:29] [main/INFO]: (Session ID is token:0:Player828)
+[15:55:31] [Client thread/INFO]: LWJGL Version: 2.9.0
+[15:55:33] [Client thread/INFO]: Reloading ResourceManager: Default
+[15:55:34] [Sound Library Loader/INFO]: Sound engine started
+[15:55:49] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:55:49] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:55:57] [MCO Availability Checker #1/ERROR]: Couldn't connect to Realms
+[15:55:59] [Server thread/INFO]: Starting integrated minecraft server version 1.7.2
+[15:55:59] [Server thread/INFO]: Generating keypair
+[15:55:59] [Server thread/INFO]: Preparing start region for level 0
+[15:56:00] [Server thread/INFO]: Preparing spawn area: 63%
+[15:56:01] [Server thread/INFO]: Player828[local:E:903860be] logged in with entity id 80 at (479.1782573841529, 59.280198207325306, -1278.9081970343245)
+[15:56:01] [Server thread/INFO]: Player828 joined the game
+[15:56:04] [Server thread/INFO]: Saving and pausing game...
+[15:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
+[15:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Nether
+[15:56:04] [Server thread/INFO]: Saving chunks for level 'World'/The End
+[15:56:16] [Server thread/INFO]: Saving and pausing game...
+[15:56:16] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
+[15:56:16] [Server thread/INFO]: Saving chunks for level 'World'/Nether
+[15:56:16] [Server thread/INFO]: Saving chunks for level 'World'/The End
+[15:56:20] [Server thread/INFO]: Saving and pausing game...
+[15:56:20] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
+[15:56:20] [Server thread/INFO]: Saving chunks for level 'World'/Nether
+[15:56:20] [Server thread/INFO]: Saving chunks for level 'World'/The End
+[15:56:23] [Server thread/INFO]: Saving and pausing game...
+[15:56:23] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
+[15:56:23] [Server thread/INFO]: Saving chunks for level 'World'/Nether
+[15:56:23] [Server thread/INFO]: Saving chunks for level 'World'/The End
+[15:56:24] [Server thread/INFO]: Stopping server
+[15:56:24] [Server thread/INFO]: Saving players
+[15:56:24] [Server thread/INFO]: Saving worlds
+[15:56:24] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
+[15:56:24] [Server thread/INFO]: Saving chunks for level 'World'/Nether
+[15:56:24] [Server thread/INFO]: Saving chunks for level 'World'/The End
+[15:56:25] [Client thread/FATAL]: Unreported exception thrown!
+java.lang.NullPointerException
+	at ca.kanoa.kclient.bridge.v1_7_2.Bridge1_7_2.addPotionEffect(Bridge1_7_2.java:11) ~[bin/:?]
+	at ca.kanoa.kclient.modules.Brightness.tick(Brightness.java:22) ~[bin/:?]
+	at ca.kanoa.kclient.managers.BasicModuleManager.tick(BasicModuleManager.java:50) ~[bin/:?]
+	at ca.kanoa.kclient.KClient.tick(KClient.java:78) ~[bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1013) ~[bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:926) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:109) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]

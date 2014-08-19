@@ -1,0 +1,44 @@
+---- Minecraft Crash Report ----
+// Why is it breaking :(
+
+Time: 24/04/14 6:57 PM
+Description: Unexpected error
+
+java.lang.NullPointerException: Unexpected error
+	at ca.kanoa.kclient.KClient.sendMessage(KClient.java:65)
+	at ca.kanoa.kclient.KClient.sendMessage(KClient.java:59)
+	at ca.kanoa.kclient.BaseHack.sendMessage(BaseHack.java:108)
+	at ca.kanoa.kclient.hacks.DebugHelper.access$0(DebugHelper.java:1)
+	at ca.kanoa.kclient.hacks.DebugHelper$1.run(DebugHelper.java:32)
+	at ca.kanoa.kclient.scheduler.BasicTask.run(BasicTask.java:48)
+	at ca.kanoa.kclient.scheduler.BasicScheduler.tick(BasicScheduler.java:60)
+	at ca.kanoa.kclient.KClient.tick(KClient.java:46)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1014)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:926)
+	at net.minecraft.client.main.Main.main(Main.java:109)
+	at Start.main(Start.java:11)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.2
+	Operating System: Windows 8 (x86) version 6.2
+	Java Version: 1.7.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) Client VM (mixed mode), Oracle Corporation
+	Memory: 968650120 bytes (923 MB) / 1046937600 bytes (998 MB) up to 1046937600 bytes (998 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
+	AABB Pool Size: 9254 (518224 bytes; 0 MB) allocated, 2 (112 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	Launched Version: mcp
+	LWJGL: 2.9.0
+	OpenGL: Intel(R) HD Graphics 4600 GL version 4.2.0 - Build 10.18.10.3304, Intel
+	Is Modded: Very likely; Jar signature invalidated
+	Type: Client (map_client.txt)
+	Resource Packs: []
+	Current Language: English (US)
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: ~~ERROR~~ NullPointerException: null
+	Anisotropic Filtering: Off (1)
